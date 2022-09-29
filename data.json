@@ -7,5 +7,13 @@
     fav car="Range Rover"
     Car details="https://www.carwale.com/land-rover-cars/range-rover/"
   }
+  {
+    id="2"
+    student name="Ashish Umesh Bidve"
+    class="3rd Year"
+    dept="IT"
+    fav car="Mercedes G Wagon63"
+    Car details="https://www.cardekho.com/mercedes-benz/mercedes-benz-g-class-specifications.htm"
+  }
 
 }
